@@ -1,0 +1,1 @@
+.ebextensions configs for using rails in AWS Elastic Beanstalk
